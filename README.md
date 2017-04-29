@@ -1,26 +1,7 @@
-# README
+#Boston Patios API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Summer is upon us. We Bostonians have spent the winter cramped up, learning
+to rue the day we moved to this frigid ice town. No more. Time to enjoy all the
+amazing patios the various restaurants of Boston have to offer.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Boston Patios Api
-Your app description, here.
+This is the Rails API backend to be served up to a React and React Native app.
