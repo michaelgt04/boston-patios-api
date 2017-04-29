@@ -1,6 +1,6 @@
 source 'https://rubygems.org/'
 
-gem 'rails', '5.0.0.1'
+gem 'rails', '5.1'
 gem 'pg', '~> 0.15'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
@@ -17,8 +17,11 @@ end
 
 group :test do
   gem 'launchy', require: false
+  gem 'database_cleaner'
 end
 
 group :production do
   gem 'rails_12factor'
 end
+
+ruby '2.3.1'
