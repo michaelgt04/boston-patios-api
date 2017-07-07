@@ -8,7 +8,7 @@ This application serves up the JSON representation of Boston's best patios. This
 will allow other applications to use the data to allow you explore the patios that Boston has to
 offer!
 
-# Technologies
+## Technologies
 
 This is the Rails API backend that will be serve up JSON to a React and React Native
 application. This project is to investigate setting up something similar to a microservice 
